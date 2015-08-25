@@ -1,0 +1,7 @@
+E:\SkyDrive\源代码\Zhuang.Projects\Zhuang.DAL\bin\Debug\Zhuang.DAL.dll
+E:\SkyDrive\源代码\Zhuang.Projects\Zhuang.DAL\bin\Debug\Zhuang.DAL.pdb
+E:\SkyDrive\源代码\Zhuang.Projects\Zhuang.DAL\bin\Debug\Zhuang.Utility.Common.dll
+E:\SkyDrive\源代码\Zhuang.Projects\Zhuang.DAL\bin\Debug\Zhuang.Utility.Common.pdb
+E:\SkyDrive\源代码\Zhuang.Projects\Zhuang.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\SkyDrive\源代码\Zhuang.Projects\Zhuang.DAL\obj\Debug\Zhuang.DAL.dll
+E:\SkyDrive\源代码\Zhuang.Projects\Zhuang.DAL\obj\Debug\Zhuang.DAL.pdb
